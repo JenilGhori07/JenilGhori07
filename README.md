@@ -10,10 +10,15 @@ A student from India, passionate about programming and technology.
 * Practicing Data Structures & Algorithms
 * Building small projects to improve my skills
 
-🛠️ Tools
+💻 Languages 
 
 * Java
+* HTML
+* CSS
 * Python
+
+🛠️ Tools
+
 * GitHub
 * VS Code
 
