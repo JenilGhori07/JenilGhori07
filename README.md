@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jenilghori4342@gmail.com)
 
-**📧 Email:** `jenilghori4342@gmail.com` (click to copy)
+
 
 ---
 
@@ -40,7 +40,7 @@ A student from India, passionate about programming and technology.
 
 ## 📫 How to reach me?
 
-📧 [jenilghori4342@gmail.com](mailto:jenilghori4342@gmail.com)
+📧 [jenilghori4342@gmail.com]([mailto:jenilghori4342@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=jenilghori4342@gmail.com))
 
 ---
 
