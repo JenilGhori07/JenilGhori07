@@ -14,9 +14,9 @@ A student from India, passionate about programming and technology.
 
 * Java
 * Python
-* Git & GitHub
+* GitHub
 * VS Code
-* IntelliJ IDEA
+
 
 📫 How to reach me?
 
