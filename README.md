@@ -1,30 +1,13 @@
-Hi, I'm Jenil 👋
+# 👋 Hi, I'm Jenil
 
-👨‍💻 Who am I?
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jenilghori4342@gmail.com)
 
-A student from India, passionate about programming and technology.
+---
 
-🚀 What am I currently working on?
+### 🎯 What I'm focused on right now
 
-* Learning Java and Python
-* Practicing Data Structures & Algorithms
-* Building small projects to improve my skills
-
-💻 Languages 
-
-* Java
-* HTML
-* CSS
-* Python
-
-🛠️ Tools
-
-* GitHub
-* VS Code
-
-
-📫 How to reach me?
-
-[jenilghori4342@gmail.com](jenilghori4342@gmail.com)
-
-Always learning, building, and improving.
+```text
+📚 Learning:  Java (DSA) + Python
+🛠️ Building:  My first real projects
+🎨 Styling:  HTML & CSS foundations
