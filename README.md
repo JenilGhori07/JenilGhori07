@@ -17,7 +17,8 @@ A student from India, passionate about programming and technology.
 * VS Code
 * IntelliJ IDEA
 
-📫 **How to reach me?**
-[E-mail](jenilghori4342@gmail.com)
+📫 How to reach me?
+
+[jenilghori4342@gmail.com](jenilghori4342@gmail.com)
 
 Always learning, building, and improving.
