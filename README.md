@@ -23,6 +23,7 @@ A student from India, passionate about programming and technology.
 | Java + DSA | 🟡 Currently learning (daily practice) |
 | HTML | 🟢 Comfortable |
 | CSS | 🟢 Comfortable |
+| UI/UX Design | 🟢 Comfortable |
 | Python | ⚪ Coming soon |
 
 ---
@@ -31,6 +32,7 @@ A student from India, passionate about programming and technology.
 
 - GitHub
 - VS Code
+- Figma
 
 ---
 
