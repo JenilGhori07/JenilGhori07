@@ -33,7 +33,7 @@ A student from India, passionate about programming and technology.
 - GitHub
 - VS Code
 - Figma
-
+  
 ---
 
 ## 📫 How to reach me?
