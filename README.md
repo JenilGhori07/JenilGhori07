@@ -18,13 +18,11 @@ A student from India, passionate about programming and technology.
 
 ## 💻 Languages
 
-| Language | Status |
-|----------|--------|
-| Java + DSA | 🟡 Currently learning (daily practice) |
-| HTML | 🟢 Comfortable |
-| CSS | 🟢 Comfortable |
-| UI/UX Design | 🟡 Intermidiate |
-| Python | ⚪ Coming soon |
+- HTML
+- CSS
+- SQL
+- Java
+- Python
 
 ---
 
